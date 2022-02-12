@@ -8,7 +8,8 @@ https://github.com/wilsonfreitas/awesome-quant
 ## Datascience
 https://github.com/r0f1/datascience
 
-https://github.com/ranaroussi/quantstats…
+## Quantstats
+https://github.com/ranaroussi/quantstats
 
 https://gist.github.com/ih2502mk/50d8f7feb614c8676383431b056f4291…
 
