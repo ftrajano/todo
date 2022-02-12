@@ -2,10 +2,11 @@
 In this repository I'm gonna put everything that I'd like to take a look
 
 
-**************************
-https://github.com/wilsonfreitas/awesome-quant…
+## Quant with python
+https://github.com/wilsonfreitas/awesome-quant
 
-https://github.com/r0f1/datascience…
+## Datascience
+https://github.com/r0f1/datascience
 
 https://github.com/ranaroussi/quantstats…
 
